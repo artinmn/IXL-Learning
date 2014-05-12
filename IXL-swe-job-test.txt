@@ -22,7 +22,7 @@ all-equivalent:
 
 The-signature-for-your-method-should-be:
 
-public-static-boolean-allStringSetsIdentical(String[ ][ ] sets)
+public static boolean allStringSetsIdentical(String[ ][ ] sets)
 
 Examples-of-the-method-in-operation:
 
