@@ -1,10 +1,3 @@
-Please-submit-solutions-to-the-following-two-Java-programming-questions.
-Feel-free-to-use-standard-Java-APIs-in-your-solutions-and-also-to-compile/test
-your-code.-However,-the-solutions-should-represent-your-own-original-work.
-
-We-will-be-examining-your-solutions-for-correctness,-efficiency,-and-
-good-programming-practice.
-
 QUESTION-#1:
 
 Write-a-Java-method-that-takes-an-array-of-"sets"-of-String-objects,
